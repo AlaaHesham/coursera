@@ -1,0 +1,29 @@
+
+/*navbar*/
+.navbar{
+	border-radius: 0;
+	background-color: aliceblue;
+}
+
+div > p {
+	font-weight: bold;
+	font-size: 1.8em;
+}
+
+.line{
+	margin: 0;
+}
+
+#collapsable-nav{
+	background-color: burlywood;
+    text-align: center;
+    color: black;
+    font-size: 1.5em;
+}
+
+/* main content*/
+#main-content{
+	background-color: maroon;
+	color: white;
+	font-size: 1.8em;
+}
